@@ -1,4 +1,4 @@
 package Exceptions;
 
-public class RomanianHasNoZeroException extends Throwable {
+public class RomanianHasNoZeroException extends Exception {
 }
