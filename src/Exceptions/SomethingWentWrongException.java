@@ -1,4 +1,4 @@
 package Exceptions;
 
-public class SomethingWentWrongException extends Throwable {
+public class SomethingWentWrongException extends Exception {
 }

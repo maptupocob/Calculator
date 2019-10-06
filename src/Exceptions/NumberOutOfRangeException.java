@@ -1,4 +1,4 @@
 package Exceptions;
 
-public class NumberOutOfRangeException extends Throwable {
+public class NumberOutOfRangeException extends Exception {
 }
